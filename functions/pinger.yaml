@@ -1,0 +1,16 @@
+id: 2463235f-54ad-43bc-b5ad-e466c194de12
+description: ""
+tags: []
+trigger:
+    type: https
+    method: GET
+    paths:
+        - /hello
+domains:
+    - somedomain
+includes:
+    - /functions/pinger.go
+execution:
+    timeout: 10s
+    memory: 10MB
+    call: /quplo
