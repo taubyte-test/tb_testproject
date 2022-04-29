@@ -1,0 +1,16 @@
+id: 3a1d6781-4a74-42c2-81e0-221f32041825
+description: ""
+tags: []
+trigger:
+    type: https
+    method: GET
+    paths:
+        - /hello2
+domains:
+    - somedomain
+includes:
+    - /someapp/functions/someinnerfunc.go
+execution:
+    timeout: 10s
+    memory: 23MB
+    call: /test
