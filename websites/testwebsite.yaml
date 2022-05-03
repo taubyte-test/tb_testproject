@@ -6,7 +6,7 @@ domains:
 libraries: []
 source:
     paths:
-        - /test
+        - /
     includes: []
     branch: main
     github:
