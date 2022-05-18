@@ -13,4 +13,4 @@ includes:
 execution:
     timeout: 10s
     memory: 10MB
-    call: /quplo
+    call: quplo
