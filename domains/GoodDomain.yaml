@@ -1,0 +1,6 @@
+id: 7446f1be-24ab-4fa4-ad7e-569c2ae1eaf9
+description: Fake Domain for website builder tests
+tags: []
+fqdn: testing_website_builder.com
+certificate:
+    type: auto
