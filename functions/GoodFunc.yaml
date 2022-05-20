@@ -1,16 +1,15 @@
 id: 2463235f-54ad-43bc-b5ad-e466c194de12
-description: ""
+description: This Function should work
 tags: []
 trigger:
     type: https
     method: GET
     paths:
-        - /hello
+        - /goopath
 domains:
-    - somedomain
-includes:
-    - /functions/pinger.go
+    - GoodDomain
+includes: []
 execution:
     timeout: 10s
     memory: 10MB
-    call: quplo
+    call: ping
