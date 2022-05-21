@@ -3,6 +3,7 @@ description: ""
 tags: []
 domains:
     - somedomain
+    - NewDomain
 libraries: []
 source:
     paths:
