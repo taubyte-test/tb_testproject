@@ -9,7 +9,7 @@ trigger:
 domains:
     - GoodDomain
 includes:
-    - /functions/someinnerfunc.go
+    - /functions/GoodFunc.go
 execution:
     timeout: 10s
     memory: 10MB
