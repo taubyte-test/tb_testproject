@@ -8,7 +8,8 @@ trigger:
         - /goopath
 domains:
     - GoodDomain
-includes: []
+includes:
+    - /functions/someinnerfunc.go
 execution:
     timeout: 10s
     memory: 10MB
