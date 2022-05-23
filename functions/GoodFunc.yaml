@@ -8,6 +8,8 @@ trigger:
         - /goopath
 domains:
     - GoodDomain
+libraries:
+    - testLibrary
 includes:
     - /functions/GoodFunc.go
 execution:
