@@ -1,0 +1,12 @@
+id: QmU2TaNpBzf7M3jCwG4d9zp8b7kCXE83ZuzT19rJtGq9gt
+description: ""
+tags: []
+local: false
+channel:
+    regex: false
+    match: thischannel
+bridges:
+    mqtt:
+        enable: false
+    websocket:
+        enable: false
