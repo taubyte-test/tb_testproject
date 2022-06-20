@@ -4,7 +4,7 @@ tags: []
 local: false
 channel:
     regex: false
-    match: thischannel
+    match: testchannel
 bridges:
     mqtt:
         enable: false
