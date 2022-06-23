@@ -1,0 +1,8 @@
+id: QmUhyzQ4sYGbTmFNY7w46syoiY6kYC6gCs3fDNzwMV1arH
+description: ""
+tags: []
+access:
+    network: host
+object:
+    versioning: false
+    size: 50GB
