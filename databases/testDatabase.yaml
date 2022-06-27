@@ -1,0 +1,12 @@
+id: QmVr37uYcJVNnyFd7zRm2fK66en9fdJ9QvNe5gqEmYTdDc
+description: test
+tags:
+    - test
+path: /test
+access:
+    network: all
+replicas:
+    min: 10
+    max: 50
+storage:
+    size: 50GB
