@@ -1,0 +1,16 @@
+id: QmQazSMmMztAFkECFpvNjGMJpaYH4CvHTt85GDj1yYgt4a
+description: ""
+tags: []
+trigger:
+    type: https
+    method: GET
+    paths:
+        - /getsocketurl
+domains:
+    - GoodDomain
+includes:
+    - /functions/getSocketUrl.go
+execution:
+    timeout: 10s
+    memory: 10MB
+    call: getsocketurl
