@@ -1,0 +1,16 @@
+id: QmXybsgxX726s8t1uDbcJax5EL6m8LKkRFSJmcriQrVtKw
+description: ""
+tags: []
+trigger:
+    type: https
+    method: GET
+    paths:
+        - /senddata
+domains:
+    - GoodDomain
+includes:
+    - /functions/pingsocket.go
+execution:
+    timeout: 10s
+    memory: 10MB
+    call: ping
