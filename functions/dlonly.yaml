@@ -1,0 +1,16 @@
+id: QmfNiRycdGqvGH1S4a4h7kiDn3egBiAeSvtmTfjDb7UZTr
+description: ""
+tags: []
+trigger:
+    type: https
+    method: GET
+    paths:
+        - /dlpath
+domains:
+    - GoodDomain
+includes:
+    - /functions/dlonly.go
+execution:
+    timeout: 10s
+    memory: 10MB
+    call: ping
