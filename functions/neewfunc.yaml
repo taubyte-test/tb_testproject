@@ -1,0 +1,15 @@
+id: QmQXTWY7kkasdZ7v4HwZf2H2E7GbaW8QsfqnCfBrw1DZnK
+description: ""
+tags: []
+trigger:
+    type: https
+    method: GET
+    paths:
+        - /tesada
+domains:
+    - GoodDomain
+includes: []
+execution:
+    timeout: 10s
+    memory: 10MB
+    call: dadssa
