@@ -1,0 +1,16 @@
+id: QmXAaYANBzLMT8YmW9Q4y4ERBodPpaFs6BW78ZSfBNt5Cg
+description: Description-dreamland
+tags:
+    - tag
+trigger:
+    type: https
+    method: GET
+    paths:
+        - /ping
+domains:
+    - GoodDomain
+includes: []
+execution:
+    timeout: 22s
+    memory: 2MB
+    call: main
