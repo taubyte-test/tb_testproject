@@ -1,0 +1,16 @@
+id: QmdA1d83qd3G3quz59p6bUqzZLFdTdhZvEgHASZ7vnVfKS
+description: ""
+tags: []
+trigger:
+    type: https
+    method: GET
+    paths:
+        - /getsocketurl
+domains:
+    - GoodDomain
+includes:
+    - /functions/dreamlandFunc.go
+execution:
+    timeout: 10s
+    memory: 10MB
+    call: getsocketurl
