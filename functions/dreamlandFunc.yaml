@@ -5,7 +5,7 @@ trigger:
     type: https
     method: GET
     paths:
-        - /getsocketurl
+        - /dlonly
 domains:
     - GoodDomain
 includes:
