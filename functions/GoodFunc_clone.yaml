@@ -1,0 +1,18 @@
+id: QmZjBpQzRw8UovKaMoWJ3qvQrHZvErqQuXNyXNusm4XYK3
+description: This Function should work
+tags: []
+trigger:
+    type: https
+    method: GET
+    paths:
+        - /poopstick
+domains:
+    - GoodDomain
+libraries:
+    - testLibrary
+includes:
+    - /functions/GoodFunc_clone.go
+execution:
+    timeout: 10s
+    memory: 10MB
+    call: ping
