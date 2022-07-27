@@ -7,3 +7,4 @@ tb_website_socketWebsite
 tb_code_prodproject
 tb_prodproject
 tb_website_prodSocketWebsite
+go-pong-wasm
