@@ -11,3 +11,4 @@ go-pong-wasm
 tb_website_BCH
 tb_website_TauPong2
 tb_templates
+tb-static_tempate
