@@ -12,3 +12,6 @@ tb_website_BCH
 tb_website_TauPong2
 tb_templates
 tb-static_tempate
+tb_react_template
+tb_angular_template
+tb_vue_template
