@@ -15,3 +15,4 @@ tb_static_tempate
 tb_react_template
 tb_angular_template
 tb_vue_template
+tb_empty_template
