@@ -13,4 +13,4 @@ includes:
 execution:
     timeout: 10s
     memory: 23MB
-    call: /test
+    call: triplo
