@@ -4,5 +4,5 @@ tags: []
 access:
     network: host
 object:
-    versioning: false
+    versioning: true
     size: 50GB
