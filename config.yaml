@@ -2,4 +2,4 @@ id: Qmc3WjpDvCaVY3jWmxranUY7roFhRj66SNqstiRbKxDbU4
 name: testproject
 description: A project used in tests
 notification:
-    email: undefined
+    email: test@taubyte.com
