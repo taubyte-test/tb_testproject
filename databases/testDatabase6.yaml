@@ -1,0 +1,13 @@
+id: QmXFHcPu4D9ANU2DLPs7eqWJKYkiqjw8ZDGaeJKoHH8vTK
+description: ""
+tags: []
+path: /
+match: testregex
+useRegex: true
+access:
+    network: all
+replicas:
+    min: 10
+    max: 1000
+storage:
+    size: 10000GB
