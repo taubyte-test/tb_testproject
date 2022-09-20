@@ -1,4 +1,4 @@
-id: QmYKSD5ujYBNtcoQQKrLsNrnLyFMPJzeEqHCx9CJiD4L2h
+id: QmSgCmYxgj27zxLj5oV86Xnc7BqUP8mn6h1t3r4wr1BXnc
 description: ""
 tags: []
 path: /
@@ -7,7 +7,7 @@ useRegex: false
 access:
     network: all
 replicas:
-    min: 1
-    max: 10
+    min: 10
+    max: 1000
 storage:
     size: 100GB
