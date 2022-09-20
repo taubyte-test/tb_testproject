@@ -1,0 +1,13 @@
+id: QmYKSD5ujYBNtcoQQKrLsNrnLyFMPJzeEqHCx9CJiD4L2h
+description: ""
+tags: []
+path: /
+match: testMatch
+useRegex: false
+access:
+    network: all
+replicas:
+    min: 1
+    max: 10
+storage:
+    size: 100MB
