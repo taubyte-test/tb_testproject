@@ -1,9 +1,10 @@
-id: QmUhyzQ4sYGbTmFNY7w46syoiY6kYC6gCs3fDNzwMV1arH
+id: QmbnmKngGZTUJgqQ2YQzc9nrP7N4QoQYmnLLznKQwF8ZKV
 description: ""
 tags: []
 match: testStorage
+useRegex: true
 access:
     network: host
 object:
     versioning: true
-    size: 50GB
+    size: 100GB
