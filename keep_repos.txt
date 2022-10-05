@@ -26,3 +26,5 @@ tb_empty_library_template
 tb_website_p2pExample
 tb_code_P2PProject
 tb_P2PProject
+tb_netlify_template
+tb_hugo_template
