@@ -1,5 +1,5 @@
 id: 2463235f-54ad-43bc-b5ad-e466c194de12
-description: This Function should work.
+description: This Function should work
 tags: []
 trigger:
     type: https
