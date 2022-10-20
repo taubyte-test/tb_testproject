@@ -5,5 +5,5 @@ source:
     path: /
     branch: main
     github:
-        id: "495584539"
-        fullname: tb_library_testLibrary
+        id: 495584539
+        fullname: taubyte-test/tb_library_testLibrary
