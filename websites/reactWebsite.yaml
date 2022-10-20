@@ -10,5 +10,5 @@ source:
     includes: []
     branch: main
     github:
-        id: "512852992"
+        id: 512852992
         fullname: taubyte-test/tb_website_reactdemo

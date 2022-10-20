@@ -10,5 +10,5 @@ source:
     includes: []
     branch: master
     github:
-        id: "512949549"
-        fullname: tb_website_socketWebsite
+        id: 512949549
+        fullname: taubyte-test/tb_website_socketWebsite
