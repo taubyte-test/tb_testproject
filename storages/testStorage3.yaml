@@ -1,8 +1,6 @@
 id: QmbnmKngGZTUJgqQ2YQzc9nrP7N4QoQYmnLLznKQwF8ZKV
 description: ""
 tags: []
-match: testStorage
-useRegex: true
 access:
     network: host
 object:
