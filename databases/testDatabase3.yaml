@@ -2,6 +2,8 @@ id: QmYKSD5ujYBNtcoQQKrLsNrnLyFMPJzeEqHCx9CJiD4L2h
 description: ""
 tags: []
 path: /
+match: testMatch
+useRegex: false
 access:
     network: all
 replicas:
