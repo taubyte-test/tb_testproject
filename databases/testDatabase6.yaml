@@ -2,8 +2,6 @@ id: QmXFHcPu4D9ANU2DLPs7eqWJKYkiqjw8ZDGaeJKoHH8vTK
 description: ""
 tags: []
 path: /
-match: testregex
-useRegex: true
 access:
     network: all
 replicas:
