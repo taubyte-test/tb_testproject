@@ -1,0 +1,16 @@
+id: QmQazSMmMztAFkECFpvNjGMJpaYH4CvTTt85GDj1yYgt4a
+description: ""
+tags: []
+trigger:
+    type: https
+    method: GET
+    paths:
+        - /helloworld
+domains:
+    - GoodDomain
+includes:
+    - /functions/helloworld.ts
+execution:
+    timeout: 10s
+    memory: 10MB
+    call: doStuff
