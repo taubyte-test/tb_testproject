@@ -1,6 +1,7 @@
 id: 2463235f-54ad-43bc-b5ad-e466c194de12
 description: This Function should work.
 tags: []
+source: libraries/testLibrary
 trigger:
     type: https
     method: GET
@@ -8,10 +9,6 @@ trigger:
         - /goopath
 domains:
     - GoodDomain
-libraries:
-    - testLibrary
-includes:
-    - /functions/GoodFunc.go
 execution:
     timeout: 10s
     memory: 10MB

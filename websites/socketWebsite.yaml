@@ -3,7 +3,6 @@ description: ""
 tags: []
 domains:
     - GoodDomain
-libraries: []
 source:
     paths:
         - /

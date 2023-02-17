@@ -3,7 +3,6 @@ description: "ting "
 tags: []
 domains:
     - GoodDomain
-libraries: []
 source:
     paths:
         - /fuckthissite
