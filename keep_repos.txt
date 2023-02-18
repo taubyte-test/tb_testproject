@@ -32,3 +32,5 @@ asm_script
 tb_speedProject
 tb_code_speedProject
 tb_website_testspeed
+tb_template_heaven
+tb_code_template_heaven
