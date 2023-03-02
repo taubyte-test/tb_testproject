@@ -1,0 +1,10 @@
+id: QmT8paeNbcZcm8TsrN26bixehsdU2JjiBSr6bjBBFmxhGM
+description: ""
+tags: []
+match: /test/*
+useRegex: true
+access:
+    network: host
+object:
+    versioning: false
+    size: 1GB
