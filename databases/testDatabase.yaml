@@ -3,10 +3,12 @@ description: test
 tags:
     - test
 path: /test
+match: /test/*
+useRegex: true
 access:
     network: all
 replicas:
     min: 10
     max: 50
 storage:
-    size: 50GB
+    size: 1GB
