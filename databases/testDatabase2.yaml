@@ -1,7 +1,6 @@
 id: QmaCRFcRsv3oNaBRD9XR8mFzmHrkTBGGbkugZfezg9La9K
 description: push
 tags: []
-path: /test
 match: /literal
 access:
     network: all
@@ -9,4 +8,4 @@ replicas:
     min: 1
     max: 100
 storage:
-    size: 100TB
+    size: 30GB
